@@ -1,0 +1,22 @@
+
+ 
+model_config_list: {
+  config: [
+    {
+      name: "my_cnn_model",
+      base_path: "/models/my_cnn_model/1",
+      model_platform: "tensorflow"
+    }
+  ]
+}
+
+
+
+#model_config_list:
+#  config:
+#    name: "my_cnn_model"
+#    base_path: "/models/my_cnn_model"
+#    model_platform: "tensorflow"
+#    # base_path: "C:/Users/tanmo/Downloads/My_Projects_in_Github/models/my_cnn_models"
+
+    

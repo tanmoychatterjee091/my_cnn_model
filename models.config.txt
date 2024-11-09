@@ -1,0 +1,12 @@
+
+# Model Configuration File (models.config)
+
+model_config_list: {
+  config: {
+    name: "my_cnn_model",
+    base_path: "/models/my_cnn_model/1",
+    model_platform: "tensorflow"
+  }
+}
+
+
